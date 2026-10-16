@@ -2,7 +2,7 @@
 
 **Rule: Q = N - P**
 
-Founder: Somenath, 13, Jhalda, West Bengal, India
+Founder: Somenath, 13, BANKURA, West Bengal, India
 
 ### What is Goldfire?
 My method to explore Goldbach's Conjecture: Every even N > 2 = P + Q where P,Q are primes.
