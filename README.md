@@ -59,12 +59,15 @@ print(goldfire_pairs(30))
 
 # GOLDFIRE V3 - Typo Fix Code - Big Version
 
+# GOLDFIRE V3 - Typo Fix Code - Final Fixed
+
 def fix_spelling(text):
     text = text.lower().strip()
     
     typo_map = {
         "gildbach": "goldbach",
         "gild bach": "goldbach",
+        "gild bachs": "goldbach",
         "gold bach": "goldbach",
         "goldback": "goldbach",
         "gold back": "goldbach",
