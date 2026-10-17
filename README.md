@@ -1,6 +1,9 @@
 # 🔥 GOLDFIRE V3 by Somenath (13)
 
-**Rule: Q = N - P**
+**Rule: Q = N - P**Python Code to test:
+for p in primes:
+  q = n - p
+  if is_prime(q): print(p,q)
 
 Founder: Somenath, 13, BANKURA, West Bengal, India
 
