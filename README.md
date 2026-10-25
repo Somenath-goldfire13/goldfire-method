@@ -63,7 +63,7 @@ print(goldfire_pairs(30))
 
 def fix_spelling(text):
     text = text.lower().strip()
-    
+For fixing spelling 👍  
     typo_map = {
         "gildbach": "goldbach",
         "gild bach": "goldbach",
